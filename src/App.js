@@ -6,7 +6,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Netlify site</h1>
+      <h1>Here we are</h1>
+      <div data-netlify-identity-menu></div>
     </div>
   );
 }
